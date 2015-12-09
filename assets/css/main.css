@@ -2079,7 +2079,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 1000%;
 		}
 
 			.image.avatar:before {
@@ -2087,8 +2087,8 @@
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
-				width: 100%;
+				border-radius: 1000%;
+				width: 1000%;
 			}
 
 /* List */
