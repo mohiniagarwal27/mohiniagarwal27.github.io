@@ -2044,7 +2044,7 @@
 			}
 
 		.image img {
-			border-radius: 0.35em;
+			border-radius: 0.45em;
 			display: block;
 		}
 
@@ -2088,7 +2088,7 @@
 
 			.image.avatar img {
 				border-radius: 200%;
-				width: 200%;
+				width: 100%;
 			}
 
 /* List */
