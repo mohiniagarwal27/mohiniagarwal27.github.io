@@ -1566,7 +1566,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1590,8 +1590,8 @@
 		}
 
 	strong, b {
-		color: #787878;
-		font-weight: 500;
+		color: #000000;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -1651,6 +1651,7 @@
 	}
 
 	sup {
+		color: #FFFF00;
 		font-size: 0.8em;
 		position: relative;
 		top: -0.5em;
@@ -2465,7 +2466,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg4.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
@@ -2504,7 +2505,7 @@
 	#footer {
 		bottom: 0;
 		left: 0;
-		padding: 0 4em 6em 0;
+		padding: 0 4em 1em 0;
 		position: fixed;
 		text-align: right;
 		width: 35%;
